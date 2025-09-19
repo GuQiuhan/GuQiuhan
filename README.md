@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome.+Hope+you+have+fun+here+:\))
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuQiuhan)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuQiuhan&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome.+Hope+you+have+fun+here+:\))
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuQiuhan)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Single+Ink&pause=1000&width=435&lines=Welcome.+Hope+you+have+fun+here+%3A))](https://git.io/typing-svg)
+</div>
