@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome.+Hope+you+have+fun+here+:%29%29" alt="Typing SVG" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuQiuhan" alt="Top Langs" />
-  <a href="https://git.io/typing-svg">
+    <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single+Ink&pause=1000&width=435&lines=Welcome.+Hope+you+have+fun+here+:%29%29" alt="Typing SVG (link)" />
-  </a>
+    </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuQiuhan" alt="Top Langs" />
+
 </div>
