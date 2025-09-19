@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Bitcount+Single+Ink&size=35&pause=1000&width=435&lines=Welcome.+Hope+you+have+fun+here+:%29)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Bitcount+Single+Ink&size=35&pause=1000&width=700&lines=Welcome.+Hope+you+have+fun+here+:%29)
