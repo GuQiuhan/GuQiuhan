@@ -15,8 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single+Ink&size=35&pause=1000&width=435&lines=Welcome.+Hope+you+have+fun+here+:%29" alt="Typing SVG (link)" />
-  </a>  
-</p>
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Bitcount+Single+Ink&size=35&pause=1000&width=435&lines=Welcome.+Hope+you+have+fun+here+:%29)
