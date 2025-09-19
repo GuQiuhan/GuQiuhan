@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **GuQiuhan/GuQiuhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,10 +19,4 @@ Here are some ideas to get you started:
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single+Ink&size=35&pause=1000&width=435&lines=Welcome.+Hope+you+have+fun+here+:%29" alt="Typing SVG (link)" />
   </a>  
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuQiuhan" alt="Top Langs" />
-  <br/>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuQiuhan&theme=github-light" alt="Activity Graph" />
-  </a>
 </p>
