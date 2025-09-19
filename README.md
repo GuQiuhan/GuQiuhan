@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome.;Hope+you+have+fun+here+:))
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuQiuhan)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuQiuhan&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
